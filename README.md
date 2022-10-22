@@ -1,2 +1,2 @@
-# -csharp-tutorial
+# csharp-tutorial
 Sample Project
